@@ -15,3 +15,5 @@
 ![Codiga grade](https://api.codiga.io/project/32366/score/svg)
 
 ![Codiga grade](https://api.codiga.io/project/32366/status/svg)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5c279cd99c5f4d8495213ca5986e0812)](https://www.codacy.com/gh/aishu110/M1_Snake-Ladders/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aishu110/M1_Snake-Ladders&amp;utm_campaign=Badge_Grade)
