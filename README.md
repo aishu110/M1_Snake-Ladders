@@ -3,3 +3,5 @@
 [![Build_CI - Linux](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/Linux.yml/badge.svg)](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/Linux.yml)
 
 [![Bulid CI - windows](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/windows.yml/badge.svg)](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/windows.yml)
+
+[![Code Quality - Cppcheck](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/cpp.yml/badge.svg)](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/cpp.yml)
