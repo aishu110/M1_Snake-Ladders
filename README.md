@@ -11,3 +11,7 @@
 [![Git Inspector](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/gitint.yml/badge.svg)](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/gitint.yml)
 
 [![Unit Testing - Unity](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/unit-test.yml/badge.svg)](https://github.com/aishu110/M1_Snake-Ladders/actions/workflows/unit-test.yml)
+
+![Codiga grade](https://api.codiga.io/project/32366/score/svg)
+
+![Codiga grade](https://api.codiga.io/project/32366/status/svg)
